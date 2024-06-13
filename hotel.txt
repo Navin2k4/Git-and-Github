@@ -1,0 +1,8 @@
+Hotel Information:
+
+- Name: My Hotel
+- Location: City Center
+- Rating: 4.5 stars
+- Amenities: Free Wi-Fi, Pool, Restaurant
+- Contact: +123456789
+- Website: http://www.myhotel.com
